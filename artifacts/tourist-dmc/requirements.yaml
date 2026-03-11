@@ -1,0 +1,11 @@
+packages:
+  "framer-motion": "For stunning scroll animations and page transitions"
+  "react-hook-form": "For robust contact form handling"
+  "@hookform/resolvers": "For Zod schema validation integration"
+
+images: []
+
+notes:
+  - This is a static, single-page marketing website with no backend API required.
+  - Form submissions are simulated with a mock delay.
+  - Intra-page navigation uses standard anchor tags with smooth scrolling.

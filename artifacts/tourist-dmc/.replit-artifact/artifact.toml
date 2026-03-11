@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Tourist DMC"
+version = "1.0.0"
+id = "artifacts/tourist-dmc"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+localPort = 19084
+name = "web"
+paths = ["/"]
+
+[services.development]
+run = "pnpm --filter @workspace/tourist-dmc run dev"
+
+[services.env]
+PORT = "19084"
+BASE_PATH = "/"
+
+[services.production]
+build = ["pnpm", "--filter", "@workspace/tourist-dmc", "run", "build"]
+publicDir = "artifacts/tourist-dmc/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"

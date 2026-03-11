@@ -1,0 +1,242 @@
+Create a modern responsive React website for a B2B travel Destination Management Company named Tourist DMC, a division of Quadrant Group LLP.
+
+Design Requirements
+
+Use a professional travel industry design.
+
+Primary theme color must match the blue color from the provided logo.
+
+Use white + blue gradients and subtle travel-themed accents.
+
+The design should look corporate, clean, and trustworthy for B2B travel partners.
+
+Fully responsive (desktop, tablet, mobile).
+
+Use React + Tailwind CSS for styling.
+
+Create reusable components and a clean project structure.
+
+Logo
+
+Use the provided Tourist DMC logo.
+
+Display the logo in the header navigation bar on the left.
+
+Logo should also appear in the footer.
+
+Website Structure
+1. Header / Navigation
+
+Sticky top navigation bar with:
+
+Logo
+
+Home
+
+About Us
+
+Services
+
+Destinations
+
+Why Partner With Us
+
+Contact
+
+Add a “Partner With Us” CTA button.
+
+Pages and Sections
+Home Page
+Hero Section
+
+Background image of Kerala backwaters or tourism scenery
+
+Title:
+"Your Trusted B2B Destination Management Partner in Kerala"
+
+Subtitle:
+Providing seamless travel experiences for global travel partners in God's Own Country.
+
+CTA Buttons:
+
+Explore Services
+
+Partner With Us
+
+About Tourist DMC
+
+Content:
+
+Tourist DMC is a premier Destination Management Company and a proud division of Quadrant Group LLP, specializing in high-value B2B travel solutions for Kerala. We act as the local operational partner for travel agents, tour operators, and corporate planners by providing seamless end-to-end destination services.
+
+Our Core B2B Specializations
+
+Display as icon cards.
+
+Wholesale Kerala Packages
+
+Exclusive net rates for travel agents across destinations like Munnar, Alleppey, Thekkady, Kovalam and Wayanad.
+
+Tailor-Made FIT & Group Itineraries
+
+Customized travel plans including honeymoon retreats and large pilgrim groups.
+
+White Label Support
+
+Branding support with airport welcome boards and operator-neutral vehicles.
+
+MICE & Corporate Offsites
+
+Corporate retreats, conferences, and team-building programs.
+
+Why Partner With Us
+
+Show as feature cards or table.
+
+Direct Supplier Rates
+Higher margins with middleman-free pricing.
+
+Verified Fleet
+Well-maintained fleet with experienced English/Hindi-speaking drivers.
+
+24/7 Ground Support
+Real-time assistance for guests.
+
+Ethical Tourism
+Responsible and sustainable tourism practices.
+
+Our Services
+
+Create a grid layout with icons.
+
+Luxury and Boutique Accommodations
+
+Premium Houseboat Cruises
+
+Experiential Tours
+
+Ayurveda & Wellness Retreats
+
+Spice Plantation Tours
+
+Kathakali Cultural Shows
+
+Specialized Meal Planning
+
+Group Photography Services
+
+Popular Kerala Destinations
+
+Create a destination card grid.
+
+Include:
+
+Munnar
+
+Alleppey
+
+Thekkady
+
+Kovalam
+
+Wayanad
+
+Kumarakom
+
+Each card should have:
+
+Image
+
+Short description
+
+Mission Section
+
+"Our mission is to empower travel businesses worldwide by delivering reliable, transparent, and innovative destination management services across Kerala."
+
+Contact Section
+
+Display company details clearly.
+
+Quadrant Group LLP
+Door No: 66/1909, T A B Road
+Kochi – 682018
+
+📞 Phone:
+
+09809700000
+
+09605566677
+
+09562719729
+
+09946290807
+
+✉ Email:
+mail@touristdmc.com
+
+🌐 Website:
+www.touristdmc.com
+
+GSTIN: 32AABFQ4168J1Z8
+
+Add a contact form:
+
+Name
+
+Company Name
+
+Email
+
+Phone
+
+Message
+
+Footer
+
+Footer should include:
+
+Logo
+
+Quick Links
+
+Contact Info
+
+Social media icons
+
+Copyright
+
+Example:
+
+© Tourist DMC – Quadrant Group LLP. All rights reserved.
+
+Technical Requirements
+
+Use:
+
+React (Functional Components)
+
+TailwindCSS
+
+Component structure:
+
+Header
+
+Hero
+
+About
+
+Services
+
+Destinations
+
+Features
+
+Contact
+
+Footer
+
+Smooth scroll navigation
+
+SEO friendly structure
+
+Clean reusable layout
